@@ -1,7 +1,7 @@
 # Benpos-Visualizer
 
 # Overview
-Benpos Visualizer Tool to decode and beautify the Raw Benpos provided by the National Securities Depository Limited and Central Depository Services Limited to Indian Issuers.
+Benpos Visualizer Tool to decode and beautify the Raw Benpos provided by the National Securities Depository Limited and Central Depository Services Limited to Issuers.
 
 # Version 2.0.0
 📣 Exciting update on our Benpos Visualizer Tool! 
